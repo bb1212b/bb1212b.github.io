@@ -3,5 +3,5 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 function sayHi() {
-  alert("안녕하세요! 배주원입니다 🙌");
+  alert("메롱👅");
 }
